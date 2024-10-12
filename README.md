@@ -1,4 +1,29 @@
+# Expensly
+Expensly is a React Native mobile application that helps users track their expenses by automatically parsing SMS messages for transaction details. It provides a simple and intuitive interface for viewing credits and debits, filtering transactions by month, and displaying total amounts.
+
+# Features
+<ul>
+   <li>Automatic parsing of SMS messages for transaction details</li>
+   <li>View credits and debits separately</li>
+   <li>Filter transactions by month</li>
+   <li>Display total amount spent or received</li>
+   <li>Background job to check for new SMS messages</li>
+   <li>User-friendly interface with easy navigation</li>
+</ul>
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+# Screenshots
+<img src="https://github.com/user-attachments/assets/65e3d0f0-69df-458a-a240-e9700842691f" width="200" height="380">
+<br>
+<img src="https://github.com/user-attachments/assets/535e3fb3-85f3-472c-a662-f02b91492c10" width="200" height="380">
+<br>
+<img src="https://github.com/user-attachments/assets/56267964-8264-44fc-8f15-ee9049c22451" width="200" height="380">
+<br>
+<img src="https://github.com/user-attachments/assets/09a4b7bd-c9ee-4b8f-a7d7-73dda7845f5b" width="200" height="380">
+<br>
+
 
 # Getting Started
 
